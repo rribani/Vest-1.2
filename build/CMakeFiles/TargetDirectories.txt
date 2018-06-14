@@ -1,0 +1,4 @@
+/home/ribani/Dropbox/Doutorado/Source Code/Vest-1.2/build/CMakeFiles/test.dir
+/home/ribani/Dropbox/Doutorado/Source Code/Vest-1.2/build/CMakeFiles/rebuild_cache.dir
+/home/ribani/Dropbox/Doutorado/Source Code/Vest-1.2/build/CMakeFiles/edit_cache.dir
+/home/ribani/Dropbox/Doutorado/Source Code/Vest-1.2/build/CMakeFiles/vest.dir

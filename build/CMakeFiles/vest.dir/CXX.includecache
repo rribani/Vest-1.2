@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ribani/Dropbox/Doutorado/Source Code/Vest-1.2/vest-1.2.cpp
+iostream
+-
+stdio.h
+-
+fcntl.h
+-
+termios.h
+-
+unistd.h
+-
+errno.h
+-
+boost/python.hpp
+-
+
